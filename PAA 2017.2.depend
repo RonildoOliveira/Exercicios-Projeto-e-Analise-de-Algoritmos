@@ -1,11 +1,20 @@
 # depslib dependency file v1.0
-1508116399 source:c:\users\ronildo\desktop\paa 2017.2\main.c
+1508133131 source:c:\users\ronildo\desktop\paa 2017.2\main.c
 	<stdio.h>
 	<stdlib.h>
-	"ex19.c"
+	"ex14.c"
 	"ex17.c"
+	"ex19.c"
 
-1508115219 c:\users\ronildo\desktop\paa 2017.2\ex19.c
+1508130779 c:\users\ronildo\desktop\paa 2017.2\ex19.c
 
-1508116771 c:\users\ronildo\desktop\paa 2017.2\ex17.c
+1508118800 c:\users\ronildo\desktop\paa 2017.2\ex17.c
+
+1508132247 source:c:\users\ronildo\desktop\paa 2017.2\ex12.c
+
+1508118800 source:c:\users\ronildo\desktop\paa 2017.2\ex17.c
+
+1508115219 source:c:\users\ronildo\desktop\paa 2017.2\ex19.c
+
+1508133156 c:\users\ronildo\desktop\paa 2017.2\ex14.c
 
